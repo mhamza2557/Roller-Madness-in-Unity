@@ -1,3 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 Library/il2cpp_cache/linkresult_2026F7EA8A7741088E93D5866A20F86A/build.bc filter=lfs diff=lfs merge=lfs -text
+C:/Users/Hamza/Documents/GitHub/Roller-Madness-in-Unity/Library/webgl_cache/linkresult_wasm_909F571DEB1E3AF885A748FFEA756D06/build.js filter=lfs diff=lfs merge=lfs -text
+C:/Users/Hamza/Documents/GitHub/Roller-Madness-in-Unity/Library/webgl_cache/linkresult_wasm_909F571DEB1E3AF885A748FFEA756D06/build.js.symbols filter=lfs diff=lfs merge=lfs -text
+C:/Users/Hamza/Documents/GitHub/Roller-Madness-in-Unity/Library/webgl_cache/linkresult_wasm_909F571DEB1E3AF885A748FFEA756D06/build.temp.asm.js filter=lfs diff=lfs merge=lfs -text
+C:/Users/Hamza/Documents/GitHub/Roller-Madness-in-Unity/Library/webgl_cache/linkresult_wasm_909F571DEB1E3AF885A748FFEA756D06/build.wasm filter=lfs diff=lfs merge=lfs -text
